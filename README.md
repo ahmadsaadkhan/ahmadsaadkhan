@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 I am a Full Stack Web Developer and have 6+ years of experience working with international software companies. I have a bachelor’s degree in Computer Science. Since 2014, I have served as a software engineer for many organizations, where I have been repeatedly recognized for developing innovative solutions and solving problems. I was responsible for the full life cycle development of next-generation software, from initial requirement gathering to design, coding, testing, documentation, and implementation.
-My technical expertise includes cross-platform proficiency (Windows, Linux, and Mac); fluency in following scripting/programming languages (including PHP, Codeigniter, LMS Moodle, JavaScript, React, Redux, Node JS, Mongo, Next JS, and MYSQL); and advanced knowledge of developer applications, tools, methodologies also on Mobile development in React Native for cross-platform development in Android IOS and web.
+<br />
+My technical expertise includes cross-platform proficiency (Windows, Linux, and Mac); fluency in following scripting/programming languages (including PHP, Codeigniter, Laravel, LMS Moodle, JavaScript, React, Redux, Node JS, Typescript, Mongo, Next JS, and MYSQL); and advanced knowledge of developer applications, tools, methodologies also on Mobile development in Flutter for cross-platform development in Android IOS and web.
+
 
 
 <!--
