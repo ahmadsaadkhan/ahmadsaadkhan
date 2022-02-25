@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/ahmadsaadkhan/ahmadsaadkhan/main/cover.png" />
+<img src="https://github.com/ahmadsaadkhan/ahmadsaadkhan/blob/main/git-cover.png" />
 
 ### Hi there 👋
 
