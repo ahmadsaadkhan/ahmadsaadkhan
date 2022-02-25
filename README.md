@@ -1,3 +1,5 @@
+https://raw.githubusercontent.com/ahmadsaadkhan/ahmadsaadkhan/main/cover.png
+
 ### Hi there 👋
 
 I am a Full Stack Web Developer and have 7+ years of experience working with international software companies. I have a bachelor’s degree in Computer Science. Since 2014, I have served as a software engineer for many organizations, where I have been repeatedly recognized for developing innovative solutions and solving problems. I was responsible for the full life cycle development of next-generation software, from initial requirement gathering to design, coding, testing, documentation, and implementation.
